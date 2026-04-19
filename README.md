@@ -1,0 +1,8 @@
+HUST Project 1: Advanced Research on RBT and B-Tree
+Author: Van Anh
+
+Core: An in-depth research and implementation of Red-Black Trees and B-Trees.
+
+Focus: Analyzing self-balancing mechanisms and multi-way search tree optimizations.
+
+The Nightmare: Where the complexity of pointer manipulation and structural rebalancing begins.
